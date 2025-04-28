@@ -110,8 +110,6 @@ var jsonSerializedURP = URPUnlockerAPI.SerializeURPA(SavableURPA urpa);
 var deserializedURP = URPUnlockerAPI.DeserializeURPA(serializedURP);
 ```
 
----
-
 #### Binary
 
 ```c#
