@@ -1,9 +1,9 @@
-<p align="center">
+<!---<p align="center">
   <img src="https://via.placeholder.com/150/0000FF/808080?text=URP+Unlocker" alt="URP Unlocker Logo">
 </p>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/your-username/your-repo-name)
-[![Tested with Unity](https://img.shields.io/badge/Unity-6.0%2B-blueviolet)](https://unity3d.com/get-unity/download) <!-- Update Unity version if needed -->
+[![Tested with Unity](https://img.shields.io/badge/Unity-6.0%2B-blueviolet)](https://unity3d.com/get-unity/download) -->
 
 # URP Unlocker
 
