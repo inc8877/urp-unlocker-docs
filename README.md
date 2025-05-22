@@ -60,7 +60,6 @@ if (currentURPA != null)
     currentURPA.Lighting.MainLightShadowsCasting = true;
 
     // Example: Increase shadow resolution and adjust shadow distance
-    // Note: Direct access to properties, not methods like the example provided. Adjusting based on previous code analysis.
     currentURPA.Lighting.AdditionalLightShadowResolution = ShadowResolution._1024; // Assuming this exists for additional lights
     currentURPA.Shadows.ShadowDistance = 120f;
 
